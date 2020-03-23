@@ -1,0 +1,14 @@
+{
+    "id": "c74d99d1-f6b2-42b2-9e7e-23d3f6bab53b",
+    "modelName": "GMSound",
+    "mvc": "1.0",
+    "name": "expl",
+    "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
+    "bitDepth": 1,
+    "bitRate": 128,
+    "kind": 0,
+    "preload": false,
+    "sampleRate": 44100,
+    "type": 0,
+    "volume": 1
+}
